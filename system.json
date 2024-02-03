@@ -1,0 +1,20 @@
+{
+    "id": "the-wildsea",
+    "title": "The Wildsea",
+    "description": "A post-fall fantasy tabletop roleplaying game set in a rampant ocean of verdant green.",
+    "version": "0.1.0",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11",
+      "maximum": "11"
+    },
+    "authors": [
+      {
+        "name": "Maji",
+        "discord": "majigah"
+      }
+    ],
+    "socket": false,
+    "url": "https://github.com/mjgh5000/foundryvtt-the-wildsea",
+    "manifest": "https://github.com/mjgh5000/foundryvtt-the-wildsea/system.json"
+  }

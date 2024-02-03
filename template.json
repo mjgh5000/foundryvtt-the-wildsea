@@ -1,0 +1,48 @@
+{
+"Actor": {
+  "types": ["character", "ship"],
+  "templates": {
+    "ratings": {
+      "armour": "",
+      "seals": "",
+      "speed": "",
+      "saws": "",
+      "stealth": "",
+      "tilt": ""
+    }
+  },
+  "character": {
+    "background": {
+      "name": "",
+      "player": "",
+      "bloodline": "",
+      "origin": "",
+      "post": "",
+      "other-notes": ""
+    },
+    "milestones": {
+        
+    }
+  },
+  "ship": {
+    "templates": ["ratings"]
+  }
+},
+"Item": {
+  "types": ["weapon", "spell"],
+  "templates": {
+    "rarity": {
+      "rarity": "Common",
+      "price": 20
+    }
+  },
+  "weapon": {
+    "templates": ["rarity"],
+    "damage": 5
+  },
+  "spell": {
+    "templates": ["rarity"],
+    "cost": 2
+  }
+}
+}
